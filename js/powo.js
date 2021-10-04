@@ -10,7 +10,7 @@ function loadPython() {
    
    var url = "powo.py";
    url = "testpython.py";
-   url = "testPykew.py";
+   //url = "testPykew.py";
    
    $.ajax({
        url: url,
