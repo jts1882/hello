@@ -8,9 +8,9 @@ title: POWO via Pykew
 
 <h2>Get data from POWO using Pykew</h2>
 
-<div id="comment" ></div>
+<div id="comment" >Comment</div>
 <div id="content">
-   <div id="content1" class="interactive"></div>
-   <div id="content2" class="interactive"></div>
+   <div id="content1" >Content block 1</div>
+   <div id="content2" >Content block 2</div>
 </div>
 
