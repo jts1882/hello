@@ -4,7 +4,7 @@ function initialise() {
   //alert(output);   
   $('#content1').html(output);
   
-  function loadPython();
+  loadPython();
 }
 function loadPython() {          
    
