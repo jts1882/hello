@@ -1,4 +1,4 @@
-function intialise() {
+function initialise() {
      
   var output = "initialise test programme";
   $('#content1').html(output);
